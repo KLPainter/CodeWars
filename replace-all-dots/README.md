@@ -10,4 +10,4 @@ var replaceDots = function(str) {
 But it's not working properly.
 
 ## Team
-Antreo and Mark
+Antreo Pukay and Mark Myers
