@@ -1,13 +1,3 @@
-# Replace All Dots
-https://www.codewars.com/kata/596c6eb85b0f515834000049
+# Fun with Code Wars
 
-The code provided is supposed replace all the dots . in the specified String str with dashes -
-
-var replaceDots = function(str) {
-  return str.replace(/./, '-');
-}
-
-But it's not working properly.
-
-## Team
-Antreo and Mark
+This repo is intended to hold the daily code wars assignments for Alchemy Bootcamp Part II.
